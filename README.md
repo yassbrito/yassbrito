@@ -1,4 +1,5 @@
 ## Olá, eu sou a Yasmin 👋
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmin.b.costa7@aluno.senai.br)
 
 ### Conhecimentos✨
 <div style="display: inline_block">
