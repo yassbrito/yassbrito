@@ -1,7 +1,5 @@
 ## Olá, eu sou a Yasmin 👋
 
-<img "https://i.pinimg.com/originals/fa/4d/a2/fa4da2be45ac694f0e55c4125e5b68d4.gif" />
-
 ### Conhecimentos✨
 <div style="display: inline_block">
   <img  height="60" windth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
