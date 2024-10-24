@@ -1,6 +1,6 @@
 ## Olá, eu sou a Yasmin 👋
 
-https://i.pinimg.com/originals/fa/4d/a2/fa4da2be45ac694f0e55c4125e5b68d4.gif
+<img "https://i.pinimg.com/originals/fa/4d/a2/fa4da2be45ac694f0e55c4125e5b68d4.gif" />
 
 ### Conhecimentos✨
 <div style="display: inline_block">
