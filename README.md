@@ -1,4 +1,4 @@
-![c#](https://github.com/user-attachments/assets/961c8b6d-509a-42c1-a3ef-27e8a54ede4f)## Olá, eu sou a Yasmin 👋
+## Olá, eu sou a Yasmin 👋
 
 <img src="https://i.pinimg.com/originals/fa/4d/a2/fa4da2be45ac694f0e55c4125e5b68d4.gif" />
 
